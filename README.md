@@ -9,3 +9,6 @@ O objetivo é criar um game incrivel como jamais fora criado, e que esteja dispo
 4. Guardamos cada ovo colocado dentro de um array.
 5. Criamos um timer.
 6. No final do  timer contamos o array de ovos e mostramos em tela.
+
+
+![Galinha Feliz](./assets/game.png "Galinha feliz")
