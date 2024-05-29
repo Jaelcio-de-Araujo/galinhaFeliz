@@ -1,0 +1,18 @@
+body {
+   background-color: calccalccalc();
+}
+
+.myCanvas {
+   background-color: #5e5e5e;
+   border: 2px solid #000;
+   margin: 0 auto;
+   width: 500px;
+   height: 500px;
+}
+
+#infoGame {
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+   color: darkolivegreen;
+   font-size: 16px;
+}
